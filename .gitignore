@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EFCore_Console/bin/Debug/net7.0
+/EFCore_Console/obj/Debug/net7.0
+/EFCore_DataAccess/bin/Debug/net7.0
+/EFCore_DataAccess/obj/Debug/net7.0
+/EFCore_Demo/.vs
+/EFCore_Demo/bin/Debug/net7.0
+/EFCore_Demo/obj
+/EFCore_Models/bin/Debug/net7.0
+/EFCore_Models/obj/Debug/net7.0
+/EFCore_Models/obj
+/EFCore_DataAccess/obj
+/EFCore_Console/obj
+/EFCore_Demo
